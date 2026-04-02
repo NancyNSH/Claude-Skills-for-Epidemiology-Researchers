@@ -4,8 +4,7 @@ Two custom Claude AI Skills built for epidemiologists and public health research
 ## How to Use
 1. Open [Claude.ai](https://claude.ai)
 2. Go to **Customize > Skills > + Create Skills** and upload the `.skill` file
-   OR
-   copy-paste the full prompt in the `.md` file at the start of a new conversation as a system-level prompt
+3. OR copy-paste the full prompt in the `.md` file at the start of a new conversation as a system-level prompt
 4. Use the trigger phrases below to activate the skill
  
 ---
