@@ -4,7 +4,8 @@ Two custom Claude AI Skills built for epidemiologists and public health research
 ## How to Use
 1. Open [Claude.ai](https://claude.ai)
 2. Go to **Customize > Skills > + Create Skills** and upload the `.skill` file
-3. OR paste the `.md` file at the start of a new conversation as a system-level prompt
+   OR
+   copy-paste the full prompt in the `.md` file at the start of a new conversation as a system-level prompt
 4. Use the trigger phrases below to activate the skill
  
 ---
@@ -16,7 +17,6 @@ For health-related literature lookups: existing evidence, current gaps, validate
  
 **Trigger phrases:** "what does the literature say about...", "are there validated tools for...", "what are the guidelines for...", "is there evidence that...", "research: [topic]"
  
-
  
 ### 📄 Epi Paper Reader
 For critical appraisal with methods depth. Surfaces confounding issues, selection/measurement bias, and statistical method concerns besides limitations flagged by authors themselves. Calibrated for cohort studies, RCTs, and cross-sectional designs.
