@@ -12,13 +12,12 @@ Two custom Claude AI Skills built for epidemiologists and public health research
  
 ## Skills
  
-### 🔬 Clinical Research Query
+### 🔬 [Clinical Research Query](./clinical-research-query.md)
 For health-related literature lookups: existing evidence, current gaps, validated tools/cut-offs/scale conversions. Returns a structured response: direct answer first, key studies, caveats, and an actionable bottom line. No filler.
  
 **Trigger phrases:** "what does the literature say about...", "are there validated tools for...", "what are the guidelines for...", "is there evidence that...", "research: [topic]"
  
- 
-### 📄 Epi Paper Reader
+### 📄 [Epi Paper Reader](./epi-paper-reader.md)
 For critical appraisal with methods depth. Surfaces confounding issues, selection/measurement bias, and statistical method concerns besides limitations flagged by authors themselves. Calibrated for cohort studies, RCTs, and cross-sectional designs.
  
 **Trigger phrase:** "critically appraise [paper]"
