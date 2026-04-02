@@ -1,36 +1,4 @@
-# Clinical Research Query Skill
-
-A Claude AI skill for epidemiology and public health researchers who need structured, evidence-based answers to clinical and research questions — fast.
-
-## What it does
-
-Returns a structured research response with:
-- **Short answer** — direct finding or yes/no first, with the key caveat if critical
-- **Substantive section(s)** — key studies, guidelines, validated tools, or cut-off tables as appropriate
-- **Key caveats** — only the ones that genuinely affect how the information should be used
-- **Bottom line** — actionable synthesis in 2–3 sentences
-- **References** — numbered list in academic format
-
-## Trigger phrases
-
-Use any of these to activate the skill:
-- "What does the literature say about..."
-- "Are there validated tools for..."
-- "What are the guidelines for..."
-- "Is there evidence that..."
-- "What is the cut-off for..."
-- "Are there convertible scales between..."
-- "research: [topic]"
-- "What is the clinical pathway for..."
-
-## Who it's for
-
-Researchers who engage with clinical literature regularly but are not clinicians. Assumes comfort with academic language, study designs, and clinical terminology — basics are not explained unless asked.
-
----
-
-## Full Skill Prompt
-
+# Clinical Research Query Skill, Full Skill Prompt
 Copy everything below this line and paste it as a custom instruction in Claude:
 
 ---
