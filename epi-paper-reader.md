@@ -1,34 +1,4 @@
-# Epi Paper Reader Skill
-
-A Claude AI skill for critically appraising epidemiology papers with methods depth. Built for researchers who want more than a summary — they want the methodological blind spots the authors didn't flag.
-
-## What it does
-
-Produces exactly five sections (~500–700 words total):
-
-1. **📖 Clinical Glossary** *(only if needed)* — technical clinical terms a methods-focused reader might not know
-2. **📄 Summary** — study design, population, exposure/outcome, key methods, main findings, and 3 key takeaways
-3. **🔍 Critical Appraisal** — issues the authors did *not* fully acknowledge, grouped under:
-   - Causal inference & confounding
-   - Selection & measurement bias
-   - Statistical methods
-4. **💡 Further Discussion** — how you could extend or replicate the research; one transferable methodological lesson
-5. **📚 Suggested Reading** *(optional)* — 2–3 related papers or methods references
-
-## Trigger phrase
-
-The skill activates **only** when you explicitly say:
-> "critically appraise [this paper / the attached paper]"
-
-It does **not** trigger for: "summarize", "explain", "what is this paper about"
-
-## Who it's for
-
-Epidemiology researchers with methods expertise reading cohort studies, RCTs, and cross-sectional studies. Expert in methods; may not be expert in the clinical topic.
-
----
-
-## Full Skill Prompt
+# Epi Paper Reader Skill, Full Skill Prompt
 
 Copy everything below this line and paste it as a custom instruction in Claude:
 
